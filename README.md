@@ -13,3 +13,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=totto16&" alt="totto16" /></p>
 
+<a href="https://wakatime.com/@47e37cf8-74c2-4705-8898-f6ef4ec0c69a"><img src="https://wakatime.com/badge/user/47e37cf8-74c2-4705-8898-f6ef4ec0c69a.svg" alt="Total time coded since Jul 8 2021" /></a>
+
