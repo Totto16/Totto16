@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Totto</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=totto16&label=Profile%20views&color=0e75b6&style=flat" alt="totto16" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=totto16" alt="totto16" /></a> </p> <a href="https://wakatime.com/@47e37cf8-74c2-4705-8898-f6ef4ec0c69a"><img src="https://wakatime.com/badge/user/47e37cf8-74c2-4705-8898-f6ef4ec0c69a.svg" alt="Total time coded since Jul 8 2021" /></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=totto16&label=Profile%20views&color=0e75b6&style=flat" alt="totto16" />
+<a href="https://wakatime.com/@47e37cf8-74c2-4705-8898-f6ef4ec0c69a"><img src="https://wakatime.com/badge/user/47e37cf8-74c2-4705-8898-f6ef4ec0c69a.svg" alt="Total time coded since Jul 8 2021" /></a>
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
