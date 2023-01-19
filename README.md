@@ -12,3 +12,5 @@
 <p>&nbsp;<img align="center" src="https://git-stats.totto.tk/api?username=totto16&show_icons=true&locale=en" alt="totto16" /></p>
 
 <p><img align="center" src="https://git-stats-streak.totto.tk/?user=totto16&" alt="totto16" /></p>
+
+<p>&nbsp;<img align="center" src="https://git-stats.totto.tk/api/wakatime?username=Totto&layout=compact" alt="totto16's wakatime stats" /></p>
